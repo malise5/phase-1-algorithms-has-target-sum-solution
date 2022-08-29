@@ -18,6 +18,9 @@ function hasTargetSum(array, target) {
 
 /* 
   Add your pseudocode here
+  I need to make a hasTargetSum function that checks if two numbers in an array add up to some target number.
+   For example, if the array is [1,2,3,4] and the target number is 6, I know that 2 and 4 add up to 6, so I should return true. 
+  If I have the same array and the target is 10, no two numbers in the array add up to 10, so I should return false.
 */
 
 /*
